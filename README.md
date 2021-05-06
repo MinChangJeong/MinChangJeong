@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/>
+- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white"/>
