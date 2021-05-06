@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=orange"/>
 - <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=green"/>
 - <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=blue"/>
-- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=whiteblue"/>
+- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white"/>
