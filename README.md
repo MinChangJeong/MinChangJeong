@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 # Min.c00
 ## Full Stack Developer!
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
 ## Tech Stack
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Python&logoColor=white"/>
