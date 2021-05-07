@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 # min.c00
 ## Full Stack Developer!
 
+## Interest
+* Backend 
+* frontend
+
 ## Tech Stack
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237FCD44&title_bg=%23000000&icon=java.svg&icon_color=%23FF0000&title=Java&edge_flat=false)](https://hits.seeyoufarm.com)
