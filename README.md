@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Full Stack Developer!
 
 ## min.c00's GitHub Stats
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=min.c00)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interest
 * Backend 
