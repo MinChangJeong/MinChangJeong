@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237FCD44&title_bg=%23000000&icon=java.svg&icon_color=%23FF0000&title=Java&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234482CD&title_bg=%23000000&icon=spring.svg&icon_color=%232C810F&title=Spring+Boot&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CDCD22&title_bg=%23000000&icon=react.svg&icon_color=%2304ADFF&title=Spring+Boot&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DD24B8&title_bg=%23000000&icon=python.svg&icon_color=%23D2DB1F&title=Python&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C9A324&title_bg=%23000000&icon=mysql.svg&icon_color=%2302A2FF&title=Mysql+&edge_flat=false)](https://hits.seeyoufarm.com)
