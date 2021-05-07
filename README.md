@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=yellow"/>
-- <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=orange"/>
-- <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=green"/>
-- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=blue"/>
-- <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white"/>
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237FCD44&title_bg=%23000000&icon=java.svg&icon_color=%23FF0000&title=Java&edge_flat=false)](https://hits.seeyoufarm.com)
