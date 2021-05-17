@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 ## Interest
 * Backend 
 * frontend
+* AI
+* Database
+* cloud
+* Data analytics
 
 ## Tech Stack
 
