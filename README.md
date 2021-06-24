@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 ## min.c00's GitHub Stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong)](https://github.com/anuraghazra/github-readme-stats)
 
-## Interest
-* Backend 
-* frontend
-* AI
-* Database
-* cloud
-* Data analytics
 
 ## Tech Stack
 
