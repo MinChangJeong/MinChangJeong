@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# min.c00
-## Full Stack Developer!
+## Full Stack Developer
 - Learning determines a good developer.
 
 ## min.c00's GitHub Stats
