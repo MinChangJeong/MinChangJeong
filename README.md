@@ -6,9 +6,11 @@
 
 
 ## Tech Stack
- - 💻 Web developer(spring boot, jsp, react, django, mysql..)
- - 🧠 AI developer(deep learning, machine learning..)
- - 📚 language(java, python..)
+ - 💻 Web developer
+  - backend : spring boot
+  - frontend : html, css, javascript, jsp, React, Angularjs
+  - DB : mysql, mariadb
+ - 📚 language : java, python, c
 
 
  ## Career
