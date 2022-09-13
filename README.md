@@ -7,10 +7,6 @@
 
 ## Tech Stack
  - 💻 Web developer
-  - backend : spring boot
-  - frontend : html, css, javascript, jsp, React, Angularjs
-  - DB : mysql, mariadb
- - 📚 language : java, python, c
 
 
  ## Career
