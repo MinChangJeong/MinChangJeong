@@ -12,6 +12,7 @@
  ## Career
  - (주) 해나소프트 웹 개발자
  - 제 1회 CJ 미래기술 첼린지 우수상
+ - 제 2회 CJ 미래기술 첼린지 대상
 
 ## Blog
 https://jminc00.tistory.com/
