@@ -14,5 +14,3 @@
 
 ## Blog
 https://jminc00.tistory.com/
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong&theme=dark&show_icons=true)
