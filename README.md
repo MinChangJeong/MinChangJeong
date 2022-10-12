@@ -7,6 +7,8 @@
 
 ## Tech Stack
  - 💻 Web developer
+  - Backend : Spring boot, mybatis, jpa
+  - DB : mysql, mariadb
 
  ## Career
  - (주) 해나소프트 웹 개발자
