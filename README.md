@@ -16,6 +16,4 @@
  - 제 2회 CJ 미래기술 첼린지 대상
 
 ## Blog
-https://jminc00.tistory.com/
- 
- 
+https://jminc00.tistory.com
