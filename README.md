@@ -1,7 +1,7 @@
 ## Developer
 - Learning determines a good developer. 
 - try harder!! 
-
+ 
 ## min.c00's GitHub Stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong)](https://github.com/anuraghazra/github-readme-stats)
   
