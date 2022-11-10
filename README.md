@@ -15,5 +15,6 @@
  - 제 1회 CJ 미래기술 첼린지 우수상
  - 제 2회 CJ 미래기술 첼린지 대상
  - GDSC TUK 1기 
+
 ## Blog
 https://jminc00.tistory.com
