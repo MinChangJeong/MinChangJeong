@@ -18,4 +18,3 @@
 
 ## Blog
 https://jminc00.tistory.com
- 
