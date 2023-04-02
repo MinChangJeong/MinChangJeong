@@ -20,5 +20,5 @@
 
 ## Blog
 https://jminc00.tistory.com
- 
+https://velog.io/@wjdalsckd45
  
