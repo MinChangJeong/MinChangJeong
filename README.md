@@ -6,7 +6,7 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Tech Stack
- - 💻 Web developer
+ - 💻 Web developer 
   - frontend : html, css, js, react, angularjs
   - Backend : Spring boot, mybatis, jpa
   - DB : mysql, mariadb, mysql
