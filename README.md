@@ -7,8 +7,8 @@
   
 ## Tech Stack
  - 💻 Web developer 
-  - frontend : html, css, js, react, angularjs
-  - Backend : Spring boot, mybatis, jpa
+  - frontend : html, css, js, react 
+  - Backend : Spring boot, jpa, querydsl, mybatis
   - DB : mysql, mariadb, mysql
 
  ## Career
