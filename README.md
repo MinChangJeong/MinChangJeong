@@ -17,6 +17,7 @@
  - 제 2회 CJ 미래기술 첼린지 대상 (2021/10)
  - GDSC TUK 1기 Core (2022/09~)
  - CJ 대한통운 IT Solution 인턴십 (2023/01~2023/02)
+ - Google Solution Challenge Global Top 100 (2023/05)
 
 ## Blog
 https://jminc00.tistory.com
