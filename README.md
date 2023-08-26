@@ -20,7 +20,5 @@
  - Google Solution Challenge Global Top 100 (2023/05)
 
 ## Blog
-https://jminc00.tistory.com
-</br>
-https://velog.io/@wjdalsckd45 
- 
+
+[블로그](http://minchangjeong.github.io)
