@@ -7,9 +7,9 @@
   
 ## Tech Stack
  - 💻 Web developer 
-  - frontend : html, css, js, react 
-  - Backend : Spring boot, jpa, querydsl, mybatis
-  - DB : mysql, mariadb, mysql
+  - frontend : HTML/CSS/JS, ReactJs
+  - Backend : Java/Spring/SpringBoot, Spring Data JPA, QueryDsl, MyBatis
+  - DevOps : Docker/Docker Compose, Kubernetes, Github Action
 
  ## Career
  - (주) 해나소프트 웹 개발자 (2022/01~2022/08)
@@ -18,6 +18,7 @@
  - GDSC TUK 1기 Core (2022/09~)
  - CJ 대한통운 IT Solution 인턴십 (2023/01~2023/02)
  - Google Solution Challenge Global Top 100 (2023/05)
+ - 7회 kakao x goorm 구름톤 최우수상 (2023/09)
 
 ## Blog
 
