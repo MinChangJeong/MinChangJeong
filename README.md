@@ -6,10 +6,9 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChangJeong)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Tech Stack
- - 💻 Web developer 
-  - frontend : HTML/CSS/JS, ReactJs
-  - Backend : Java/Spring/SpringBoot, Spring Data JPA, QueryDsl, MyBatis
-  - DevOps : Docker/Docker Compose, Kubernetes, Github Action
+ - 💻 Backend developer 
+  - Backend : Java/Spring/SpringBoot, Spring Data JPA, QueryDsl, MyBatis, Laravel
+  - DevOps : Docker/Docker Compose, Github Action
 
  ## Career & Awards
  - (주) 해나소프트 웹 개발자 (2022/01~2022/08)
@@ -26,4 +25,4 @@
 
 ## Blog
 
-[블로그](http://minchangjeong.github.io)
+[블로그](https://jminc00.tistory.com/)
